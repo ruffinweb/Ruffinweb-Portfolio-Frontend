@@ -46,6 +46,7 @@ Currently, a click outside the text shows the click feedback and closes the menu
 - GSAP reveal animations interfere with the useRef scroll behavior, causing the page to scroll too far past the revealed content. 
 A quick fix would be to add an element not included in each GSAP animation at the top of each card on the home page. 
 The projects card does not have this problem because the My Projects typography element is placed outside the reveal animations used for each project.
+- URLs to each project in ProjectsArray need to updated. Currently they all point to the VPS deployment guide repo.
 
 ## Pages-Cards
 
