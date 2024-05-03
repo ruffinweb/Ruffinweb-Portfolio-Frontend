@@ -12,7 +12,6 @@ jobs:
 
         - name: Install dependencies
           run: npm ci
-          # npm ci is the recommended when installing packages in an automated environment.
 
         - name: Build
           run: npm run build
