@@ -1,4 +1,4 @@
-# Ruffinweb Frontend
+# Ruffinweb Frontend Review
 
 Solo code review for deploying in a production environment. There are still additional features to be implemented, which will be addressed once CI/CD is set up with Github actions. In each section, I'll explain the changes made and the reasons behind them. I used an AI model to generate a list of the points to review so some of the unedited items describe what I still need to review and others are the actions specific to my project that need to take or have already taken. 
 
